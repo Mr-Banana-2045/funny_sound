@@ -3,7 +3,7 @@ virus vbs and batch
 
 ## Start Windows :
 
-copy file *txt.vbs and *start.bat to Desktop
+copy file <h1>txt.vbs</h1> and <h1>start.bat</h1> to Desktop
 
 cd Desktop
 
